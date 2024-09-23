@@ -1,4 +1,4 @@
-# ajus-language-translation-tool-
+# ajus-language-translation-tool- VB SCRIPT
 malayalam to english
 Sub Multi Find NReplace()
 
